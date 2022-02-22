@@ -34,7 +34,7 @@ border-color: #466baf;
   background-color: #466baf;
 }
 
-@media screen and(max-width: 300px){
+@media screen and(max-width: 400px){
   body, h1, img, .tombol1, .tombol2{
     width: 100%;
   }
