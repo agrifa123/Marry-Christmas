@@ -40,7 +40,7 @@ function playAudio() {
     
 var nameval;
 nameval1 = prompt("Masukkan Nama Anda");
-nameval2 = "Marry Christmas 2020 & Happy New Year 2021 to You," +nameval1 +".Semoga Damai Natal dan Semangat Tahun Baru Selalu Menyertai Dirimu dan Keluargamu😊";
+nameval2 = "Marry Christmas 2022 & Happy New Year 2023 to You," +nameval1 +".Semoga Damai Natal dan Semangat Tahun Baru Selalu Menyertai Dirimu dan Keluargamu😊";
 
 function validationfunc(){
     var montemp = setInterval(fun2,300);
