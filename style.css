@@ -1,5 +1,4 @@
 
-
 body {
   background-color: #ff1616;
 }
@@ -12,6 +11,11 @@ img {
 h1 {
   font-family: Consolas;
   color: lightblue;
+}
+
+.container{
+   width: 100%;
+   min-height: 200px;
 }
 
 .tombol1 {
